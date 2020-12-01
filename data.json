@@ -1,0 +1,34 @@
+{
+    "customers" : [
+        {
+            "id": "1",
+            "name": "Jane Doe",
+            "email": "jdoe@gmail.com", 
+            "age": 35
+        },
+        {
+            "id": "2",
+            "name": "John Doe",
+            "email": "johndoe@gmail.com", 
+            "age": 11
+        },
+        {
+            "id": "3",
+            "name": "Cole Smith",
+            "email": "smith@gmail.com", 
+            "age": 15
+        },
+        {
+            "id": "4",
+            "name": "Bryan James",
+            "email": "bry@gmail.com", 
+            "age": 27
+        },
+        {
+            "id": "5",
+            "name": "Mary Webster",
+            "email": "marW@gmail.com", 
+            "age": 38
+        }
+    ]
+}

@@ -10,6 +10,6 @@ app.use('/graphql', graphqlHTTP({
     graphiql: true
 }));
 
-app.listen('3300', () => {
+app.listen('4000', () => {
     console.log('server is running')
 });
